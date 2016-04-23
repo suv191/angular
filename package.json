@@ -1,0 +1,14 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "A project for basic angularjs",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "suvasis",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
